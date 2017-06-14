@@ -1,0 +1,15 @@
+how many cpu's r there in a system - done
+
+per cpu.. how many core's are there - done
+
+create a loop, that creates a prime numbers upto a million - done
+
+assign the program to a thread (called A) 
+
+assign the thread to a cpu (has multiple cores) where the cpu distributes the thread procesing b/w it's cores
+
+assign the thread to a core in cpu 
+
+
+
+
