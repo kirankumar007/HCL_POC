@@ -1,0 +1,55 @@
+-5237964367719996138 ... Thread[Thread-0,5,main]: cpuTime = 1263608100
+-5237964367719996138 ... Thread[Thread-1,5,main]: cpuTime = 1263608100
+Total elapsed time 1272280565
+Total thread CPU time 2527216200
+Factor: 1.99
+Available Processors = 4
+Checking computer system...
+manufacturer: LENOVO
+model: 20B7S1970B
+serialnumber: PC015RUN
+firmware:
+  manufacturer: LENOVO
+  name: Phoenix BIOS SC-T v2.1
+  description: Phoenix BIOS SC-T v2.1
+  version: LENOVO - 2280
+baseboard:
+  manufacturer: LENOVO
+  model: unknown
+  version: 0B98401 WIN
+  serialnumber: L1HF49P05E1
+Checking Processor...
+Intel(R) Core(TM) i5-4300U CPU @ 1.90GHz
+ 2 physical CPU(s)
+ 4 logical CPU(s)
+Checking Memory...
+Memory: 1.3 GiB/7.7 GiB
+Swap used: 142.5 MiB/7.7 GiB
+Checking CPU...
+Uptime: 1 days, 11:15:13
+CPU, IOWait, and IRQ ticks @ 0 sec:[22145199, 0, 16790291, 227151059, 0, 387436, 167119, 0]
+CPU, IOWait, and IRQ ticks @ 1 sec:[22145558, 0, 16790611, 227154491, 0, 387436, 167127, 0]
+User: 8.7% Nice: 0.0% System: 7.8% Idle: 83.3% IOwait: 0.0% IRQ: 0.0% SoftIRQ: 0.2% Steal: 0.0%
+CPU load: 23.4% (counting ticks)
+CPU load: 27.3% (OS MXBean)
+CPU load averages: N/A N/A N/A
+CPU load per processor: 40.0% 14.1% 34.1% 13.0%
+Checking Processes...
+Processes: 157, Threads: 2301
+   PID  %CPU %MEM       VSZ       RSS Name
+     0 100.0  0.0   0 bytes    24 KiB System Idle Process
+  4372  39.7  0.9   3.4 GiB  67.8 MiB javaw.exe
+  6580  15.9  0.3  81.1 MiB  24.9 MiB audiodg.exe
+ 10812  10.6 20.5   3.1 GiB   1.6 GiB eclipse.exe
+  8240   2.9  0.1  58.9 MiB  10.9 MiB WmiPrvSE.exe
+Generating Prime numbers between 1 and 10000
+2
+3
+5
+7
+11
+13
+17
+19
+23
+29
